@@ -1,0 +1,1 @@
+This repository contains scripts and plots analyzing the Stentor genome.
