@@ -6,3 +6,4 @@ Contents:
 3. plotReadCounts.R - R script for visualizing reads mapped per contig
 4. readsmapped.png - plots showing reads mapped per contig for our RNAseq data, with (1) raw counts and (2) counts normalized by contig length
 5. compareReplicateLibraries.R - R script for plotting read counts from 2 replicate libraries to assess their similarity
+6. rnaseq_coverage_1.png - plot showing RNAseq coverage across 10kb of contig 1. Plus strand coverage in red, minus strand coverage in blue.
