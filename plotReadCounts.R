@@ -1,3 +1,5 @@
+# Script for visualizing RNAseq mapping patterns
+
 require(ggplot2)
 require(gridExtra)
 
